@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+2439bc8ea4153d4ee6fde9ada4b37685 CMakeFiles/create_resources_dir
+151e015509b75713c54173acae0df976 CMakeFiles/vhf_info-po-update
+151e015509b75713c54173acae0df976 CMakeFiles/vhf_info-pot-update
+266caae092580eb0f6bf6bae9d0e24b6 po/vhf_info_pi.pot.dummy
