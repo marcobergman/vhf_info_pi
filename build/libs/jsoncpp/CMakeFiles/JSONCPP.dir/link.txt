@@ -1,0 +1,2 @@
+/usr/bin/ar qc libJSONCPP.a CMakeFiles/JSONCPP.dir/src/json_reader.cpp.o CMakeFiles/JSONCPP.dir/src/json_value.cpp.o CMakeFiles/JSONCPP.dir/src/json_writer.cpp.o
+/usr/bin/ranlib libJSONCPP.a

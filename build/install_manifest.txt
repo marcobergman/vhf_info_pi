@@ -1,0 +1,5 @@
+/usr/local/lib/opencpn/libvhf_info_pi.so
+/usr/local/share/opencpn/plugins/vhf_info_pi/data/ap_route_panel.svg
+/usr/local/share/opencpn/plugins/vhf_info_pi/data/ap_route.svg
+/usr/local/share/opencpn/plugins/vhf_info_pi/data/ap_route_toggled.svg
+/usr/local/share/opencpn/plugins/vhf_info_pi/data/ap_route_panel.png
